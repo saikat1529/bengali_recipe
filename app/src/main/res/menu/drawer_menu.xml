@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_one"
+        android:title="@string/top_one"
+        android:icon="@android:drawable/ic_dialog_alert"/>
+    <item
+        android:id="@+id/item_two"
+        android:title="@string/top_two"
+        android:icon="@android:drawable/ic_dialog_alert"/>
+    <item
+        android:id="@+id/item_three"
+        android:title="@string/top_three"
+        android:icon="@android:drawable/ic_dialog_alert"/>
+    <item android:title="@string/middle_title">
+        <menu>
+            <item
+                android:id="@+id/item_four"
+                android:title="@string/middle_one"
+                android:icon="@android:drawable/ic_dialog_alert"/>
+            <item
+                android:id="@+id/item_five"
+                android:title="@string/middle_two"
+                android:icon="@android:drawable/ic_dialog_alert"/>
+        </menu>
+    </item>
+    <group android:id="@+id/groupid">
+        <item
+            android:id="@+id/item_seven"
+            android:title="@string/bottom_one"
+            android:icon="@android:drawable/ic_dialog_alert"/>
+        <item
+            android:id="@+id/item_six"
+            android:title="@string/bottom_five"
+            android:icon="@android:drawable/ic_dialog_alert"/>
+        <item
+            android:id="@+id/item_nine"
+            android:title="@string/bottom_three"
+            android:icon="@android:drawable/ic_dialog_alert"/>
+        <item
+            android:id="@+id/item_ten"
+            android:title="@string/bottom_four"
+            android:icon="@android:drawable/ic_dialog_alert"/>
+    </group>
+</menu>

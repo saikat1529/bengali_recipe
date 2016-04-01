@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">NewDrawerLayoutTemplate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--
+    THIS SECTION DEFINES THE MENU NAME AND ITS ITEM
+    -->
+
+    <!-- Top Section -->
+    <string name="top_one">All Recipe</string>
+    <string name="top_two">Favourite</string>
+    <string name="top_three">My Recipe</string>
+
+    <!-- Middle Section -->
+    <string name="middle_title">Featured</string>
+    <string name="middle_one">Cooked</string>
+    <string name="middle_two">Saved</string>
+
+    <!-- Bottom Section -->
+    <string name="bottom_one">Rate Us</string>
+    <string name="bottom_two">Share Us</string>
+    <string name="bottom_five">Settings</string>
+    <string name="bottom_three">Feedback</string>
+    <string name="bottom_four">Log In</string>
+
+    <string name="description">
+        Please add something. Please add something. Please add something. Please add something.
+        Please add something. Please add something. Please add something. Please add something.
+        Please add something. Please add something. Please add something. Please add something.
+        Please add something. Please add something. Please add something. Please add something.
+    </string>
+
+    <!-- Category Array -->
+    <array name="category">
+        <item>Salad</item>
+        <item>Soup</item>
+        <item>Snacks</item>
+        <item>Vegetable</item>
+        <item>Kebab</item>
+        <item>Chicken</item>
+        <item>Mutton</item>
+        <item>Beef</item>
+        <item>Fish</item>
+        <item>Prawn</item>
+        <item>Egg</item>
+        <item>Biriyani</item>
+        <item>Porota</item>
+        <item>Pasta</item>
+        <item>Pitha</item>
+        <item>Baking</item>
+        <item>Drinks</item>
+        <item>Dessert</item>
+    </array>
+
+    <!-- Ingredients Array -->
+    <array name="ingredient">
+        <item>Salt: 1tbsp</item>
+        <item>Green chilli: 5-6 pcs</item>
+        <item>Mint: 10gms</item>
+        <item>Potato: 125gms</item>
+        <item>Chicken: 500gms</item>
+        <item>Sugar: 2 tbsp</item>
+        <item>Chilli Powder: 1.5tbsp</item>
+        <item>Turmeric Powder: 1.5tbsp</item>
+        <item>Corriander Powder: 2tbsp</item>
+        <item>Cinamon: 2-3 pcs</item>
+        <item>Bay Leaf: 1-2 pcs</item>
+        <item>Oil: 1/2 cup</item>
+        <item>Cardamom: 2-3 pcs</item>
+    </array>
+
+</resources>
